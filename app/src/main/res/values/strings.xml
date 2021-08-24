@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">V2A</string>
+    <string name="play">play</string>
+    <string name="pick">pick</string>
+    <string name="convert">convert</string>
+    <string name="progressBar">progressBar</string>
+</resources>
